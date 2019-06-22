@@ -46,7 +46,7 @@ WHERE   DATEDIFF(MINUTE, q.MailboxProcessStartedOn_prev, q.MailboxProcessStarted
 
 /*
 //    ADD MAILBOX ID IF YOU WANT TO SEE CYCLES ON SPECIFIC MAILBOX:
-//       and q.MailboxId = '63E0D735-E1E7-E811-A2C4-005056950E90' 
+//       and q.MailboxId = 'MailboxID' 
 */
 
 /*
